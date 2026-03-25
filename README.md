@@ -2,7 +2,8 @@
 B.Tech AI & ML Undergrad | Problem Solver | Tech Enthusiast
 Welcome to my GitHub! I am a passionate developer from Lucknow, currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at VIT Bhopal University. I love bridging the gap between complex algorithms and real-world applications.
 
-▶️ [Watch My Self-Introduction Video Here] (https://github.com/satendravron/Self-introduction-video/blob/main/self%20intro.mp4)
+▶️ [Watch My Self-Introduction Video Here] 
+(https://github.com/satendravron/Self-introduction-video/blob/main/self%20intro.mp4)
 Take a minute to get to know me, my technical journey, and what I bring to the table!
 
 🚀 What I Do
