@@ -1,5 +1,8 @@
-🎥 Hi there! 👋 I'm Satendra Gupta
+🎥 Hi there! 
+👋 I'm Satendra Gupta
+
 B.Tech AI & ML Undergrad | Problem Solver | Tech Enthusiast
+
 Welcome to my GitHub! I am a passionate developer from Lucknow, currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at VIT Bhopal University. I love bridging the gap between complex algorithms and real-world applications.
 
 ▶️ [Watch My Self-Introduction Video Here] 
